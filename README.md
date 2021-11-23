@@ -1,7 +1,7 @@
 # repositorio_aula_GOST_924
 
 
-<h4>Iniciar um repositorio local</h4>
+#### Iniciar um repositorio local
 [x] git init
 
 <h4>Configurar o user.name local e o user.email local</h4>
