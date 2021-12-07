@@ -1,4 +1,4 @@
-# repositorio_aula_GOST_924
+# repositorio_aula_GQSW_924
 
 
 #### Iniciar um repositorio local
